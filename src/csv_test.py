@@ -1,5 +1,5 @@
 #   Autor: Moacir Werter 
-#   Coloque o código numa pasta chamada /src e os arquivos de saída em /results.
+#   Coloque o código numa pasta chamada /src e os arquivos de saída em /dados.
 #   Python 3.7.7
 
 import csv
