@@ -1,2 +1,2 @@
 # Teste Python
-Teste de python 
+Exercício de programação em python
